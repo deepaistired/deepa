@@ -10,7 +10,7 @@ npm run build
 firebase init or npx firebase init
 Yes -> Hosting -> use an existing project
 public directory ->build
-Yes
+No single page
 Yes for github
 deepaistires/reponame -> click the link and set up the service account
 Settings -> secrets and variables -> actions
